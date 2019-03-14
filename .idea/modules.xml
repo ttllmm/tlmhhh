@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FluxAppServer/FluxAppServer.iml" filepath="$PROJECT_DIR$/FluxAppServer/FluxAppServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FluxLogServer/FluxLogServer.iml" filepath="$PROJECT_DIR$/FluxLogServer/FluxLogServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tlmhhh.iml" filepath="$PROJECT_DIR$/tlmhhh.iml" />
+    </modules>
+  </component>
+</project>
